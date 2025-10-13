@@ -1,4 +1,4 @@
-# Implementazione & Testing
+# Implementazione 
 
 Questa cartella contiene il codice relativi alla fase di **Implementazione**.
 
