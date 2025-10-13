@@ -1,6 +1,6 @@
 # Implementazione 
 
-Questa cartella contiene il codice relativi alla fase di **Implementazione**.
+Questa cartella contiene il codice relativo alla fase di **Implementazione**.
 
 ## Obiettivi
 - Implementare tutte le classi progettate.
